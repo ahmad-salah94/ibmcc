@@ -1,0 +1,5 @@
+applications:
+- name: angry-morse
+  memory: 256M
+  host: angry-morse
+  buildpack: staticfile_buildpack
